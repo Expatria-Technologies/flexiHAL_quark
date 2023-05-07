@@ -404,7 +404,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JPNFQUAG
 
 [Document22]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Universal_breakout_old.PcbLib
@@ -506,7 +506,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RNJWUMFL
 
 [Document28]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Miscellaneous Devices LC.PcbLib
@@ -702,7 +702,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=40
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -744,10 +744,44 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DUBFUVRQ
 
 [Document42]
 DocumentPath=Schematic\MCU_STM32F407VGT6.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=41
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LCEYTUBE
+
+[Document43]
+DocumentPath=Schematic\Stepper_Driver_Quark.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=42
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HRIXGZAO
+
+[Document44]
+DocumentPath=..\cnc_projects\Altium_JLC_Library\Miscellaneous Connectors\Miscellaneous Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -761,7 +795,75 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LCEYTUBE
+DocumentUniqueId=
+
+[Document45]
+DocumentPath=..\cnc_projects\Altium_JLC_Library\Miscellaneous Connectors\Miscellaneous Connectors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document46]
+DocumentPath=Schematic\Stepper_driver_group.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document47]
+DocumentPath=Schematic\MCU_STM32G0_Extender.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document48]
+DocumentPath=Schematic\12V_Power_Supply.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=43
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AWNFDQUB
 
 [ProjectVariant1]
 UniqueID=2FD7A5CA-1890-45CB-96AB-94166B7423FD
@@ -1746,36 +1848,6 @@ OutputName12=Ansys EDB
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -2337,11 +2409,23 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=ArduinoMEGA.SchLib
-ComponentDesignItemID0=Arduino_DUE
-ComponentSymbolReference0=Arduino_DUE
+ComponentLibraryIdentifier0=Cap.SchLib
+ComponentDesignItemID0=1206 10uF (106) 10% 50V
+ComponentSymbolReference0=1206 10uF (106) 10% 50V
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Miscellaneous Connectors.IntLib
+ComponentDesignItemID1=Header 2X2H
+ComponentSymbolReference1=Header 2X2H
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=MOS.SchLib
+ComponentDesignItemID2=WSF50P10 P TO-252-2
+ComponentSymbolReference2=WSF50P10 P TO-252-2
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -2355,19 +2439,66 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
+ParameterName0=Capacitance
 ParameterUpdate0=1
-ParameterName1=Component Kind
+ParameterName1=Comment
 ParameterUpdate1=1
-ParameterName2=Description
+ParameterName2=Component Kind
 ParameterUpdate2=1
-ParameterName3=Library Reference
+ParameterName3=ComponentLink1Description
 ParameterUpdate3=1
+ParameterName4=ComponentLink1URL
+ParameterUpdate4=1
+ParameterName5=Description
+ParameterUpdate5=1
+ParameterName6=LatestRevisionDate
+ParameterUpdate6=1
+ParameterName7=LatestRevisionNote
+ParameterUpdate7=1
+ParameterName8=Library Reference
+ParameterUpdate8=1
+ParameterName9=Manufacturer
+ParameterUpdate9=1
+ParameterName10=Manufacturer 1
+ParameterUpdate10=1
+ParameterName11=Manufacturer Part Number 1
+ParameterUpdate11=1
+ParameterName12=Notepad
+ParameterUpdate12=1
+ParameterName13=Package
+ParameterUpdate13=1
+ParameterName14=PartNumber
+ParameterUpdate14=1
+ParameterName15=Publisher
+ParameterUpdate15=1
+ParameterName16=Supplier
+ParameterUpdate16=1
+ParameterName17=Supplier 1
+ParameterUpdate17=1
+ParameterName18=Supplier Part Number 1
+ParameterUpdate18=1
+ParameterName19=SuppliersPartNumber
+ParameterUpdate19=1
+ParameterName20=Tolerance
+ParameterUpdate20=1
+ParameterName21=Voltage
+ParameterUpdate21=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=ArduinoMEGA_ALL
+ModelName0=1206_C
 ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=HDR2X2H
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=TO-252-2-180
+ModelUpdate2=1
+ModelTypeGroup1=SI
+ModelTypeUpdate1=1
+ModelType3=SI
+ModelName3=Connector
+ModelUpdate3=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -2379,31 +2510,33 @@ PartTypes=0
 Net1=NetName=+12V|NetColor=clYellow
 Net2=NetName=+24V|NetColor=$00FF6E6E
 Net3=NetName=+3.3V|NetColor=$00FFFF6E
-Net4=NetName=+5V|NetColor=$00FF6EFF
-Net5=NetName=+5V_MCU|NetColor=$00FF6EFF
-Net6=NetName=AMP_VBAT|NetColor=clYellow
-Net7=NetName=CAM_VBAT|NetColor=$00816200
-Net8=NetName=FLASH_VDD|NetColor=$0000BE00
-Net9=NetName=GND|NetColor=$00009CFF
-Net10=NetName=MCU_GND|NetColor=$0000BE00
-Net11=NetName=NetC128_2|NetColor=$00FF6E6E
-Net12=NetName=POWER_OUT_5V|NetColor=$00FF6EFF
-Net13=NetName=RELAY_VCC|NetColor=$000083FD
-Net14=NetName=SENSOR_VDD|NetColor=$00B0B0B0
-Net15=NetName=SENSOR_VDD_FL|NetColor=$00B0B0B0
-Net16=NetName=SOLAR_OUT|NetColor=$00FF6E6E
-Net17=NetName=STEPPER_VCC|NetColor=$0000BE00
-Net18=NetName=SYS|NetColor=$00FFFF6E
-Net19=NetName=USB_VBUS|NetColor=$00322760
-Net20=NetName=VBAT_ISP|NetColor=$004C9AF5
-Net21=NetName=VBAT_LOAD|NetColor=$00FF6E6E
-Net22=NetName=VBAT_SENSED|NetColor=$006EFF6E
-Net23=NetName=VBAT_SW|NetColor=$00FF6EFF
-Net24=NetName=VBAT1|NetColor=$00FF6EFF
-Net25=NetName=VCC_1V8|NetColor=$00FFFF6E
-Net26=NetName=VCC_1V8_IO|NetColor=$00164FDE
-Net27=NetName=VCC_1V8_SW|NetColor=$006E6EFF
-Net28=NetName=VSYS_3V5V|NetColor=$00FF6E6E
+Net4=NetName=+3.3V_MOTOR|NetColor=$00FF6E6E
+Net5=NetName=+5V|NetColor=$00FF6EFF
+Net6=NetName=+5V_MCU|NetColor=$00FF6EFF
+Net7=NetName=AMP_VBAT|NetColor=clYellow
+Net8=NetName=CAM_VBAT|NetColor=$00816200
+Net9=NetName=FLASH_VDD|NetColor=$0000BE00
+Net10=NetName=GND|NetColor=$00009CFF
+Net11=NetName=MCU_GND|NetColor=$0000BE00
+Net12=NetName=MOTOR_VCC_48V|NetColor=$005EEFFF
+Net13=NetName=NetC128_2|NetColor=$00FF6E6E
+Net14=NetName=POWER_OUT_5V|NetColor=$00FF6EFF
+Net15=NetName=RELAY_VCC|NetColor=$000083FD
+Net16=NetName=SENSOR_VDD|NetColor=$00B0B0B0
+Net17=NetName=SENSOR_VDD_FL|NetColor=$00B0B0B0
+Net18=NetName=SOLAR_OUT|NetColor=$00FF6E6E
+Net19=NetName=STEPPER_VCC|NetColor=$0000BE00
+Net20=NetName=SYS|NetColor=$00FFFF6E
+Net21=NetName=USB_VBUS|NetColor=$00322760
+Net22=NetName=VBAT_ISP|NetColor=$004C9AF5
+Net23=NetName=VBAT_LOAD|NetColor=$00FF6E6E
+Net24=NetName=VBAT_SENSED|NetColor=$006EFF6E
+Net25=NetName=VBAT_SW|NetColor=$00FF6EFF
+Net26=NetName=VBAT1|NetColor=$00FF6EFF
+Net27=NetName=VCC_1V8|NetColor=$00FFFF6E
+Net28=NetName=VCC_1V8_IO|NetColor=$00164FDE
+Net29=NetName=VCC_1V8_SW|NetColor=$006E6EFF
+Net30=NetName=VSYS_3V5V|NetColor=$00FF6E6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
