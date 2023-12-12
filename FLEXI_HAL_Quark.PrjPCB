@@ -67,23 +67,6 @@ GenerateClassCluster=0
 DocumentUniqueId=JCWMWEML
 
 [Document2]
-DocumentPath=Schematic\2xparallelswitch.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=14
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YJSEAGZL
-
-[Document3]
 DocumentPath=Schematic\Limit_Switches.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMXUIJFD
 
-[Document4]
+[Document3]
 DocumentPath=Schematic\Misc_switches.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CNUPIMTR
 
-[Document5]
+[Document4]
 DocumentPath=Schematic\Photocoupler12Vinput.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OHYSTRCH
 
-[Document6]
+[Document5]
 DocumentPath=Schematic\Spindle_Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BBXQZZHW
 
-[Document7]
+[Document6]
 DocumentPath=Schematic\I2C_Keypad.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWSWJIXT
 
-[Document8]
+[Document7]
 DocumentPath=Schematic\RS485.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHLBETMB
 
-[Document9]
+[Document8]
 DocumentPath=Schematic\Flexi_Quark_board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VNJFNLBI
 
-[Document10]
+[Document9]
 DocumentPath=Schematic\Stepper_driver_group.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOXDIMJD
 
-[Document11]
+[Document10]
 DocumentPath=STM32F446RE_CNC_BOARD.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=Schematic\5V_Power_Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WTACPPTS
 
-[Document13]
+[Document12]
 DocumentPath=Schematic\Aux_Outputs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFSDBWIA
 
-[Document14]
+[Document13]
 DocumentPath=STM32F446RE_CNC_BOARD.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=Uchoice.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=Schematic\2xparallelswitch_HALT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNLWNZID
 
-[Document17]
+[Document16]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Zener.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FGGVQLSB
 
-[Document18]
+[Document17]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Universal_CNC_Breakout2.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VUFMGTSV
 
-[Document19]
+[Document18]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Universal_CNC_Breakout.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JPNFQUAG
 
-[Document20]
+[Document19]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Universal_breakout_old.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document20]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Universal_breakout.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NCQHDRRH
 
-[Document22]
+[Document21]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Transistor_PNP.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WRTBQHMJ
 
-[Document23]
+[Document22]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Transistor_NPN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SNXALUAE
 
-[Document24]
+[Document23]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\RES.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HLBESONQ
 
-[Document25]
+[Document24]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\MOS.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RNJWUMFL
 
-[Document26]
+[Document25]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Miscellaneous Devices LC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document26]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\MCU.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JSSXFVPY
 
-[Document28]
+[Document27]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\LED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SQBERQTN
 
-[Document29]
+[Document28]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\LDO.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CCDDGAMC
 
-[Document30]
+[Document29]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\IUD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VMPXMJDM
 
-[Document31]
+[Document30]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\IC_temp.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GQNPVBEG
 
-[Document32]
+[Document31]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\IC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VITYGUXC
 
-[Document33]
+[Document32]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\FBEAD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GBUUCOMP
 
-[Document34]
+[Document33]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Diode.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JHFWXUNK
 
-[Document35]
+[Document34]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\CrystalOscillator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -644,7 +627,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FITEGSRK
 
-[Document36]
+[Document35]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Cap.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -661,24 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTPOGMYO
 
-[Document37]
-DocumentPath=Schematic\MCU_STM32G0_Extender.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=40
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EIVJFKVT
-
-[Document38]
+[Document36]
 DocumentPath=FLEXI_HAL_Quark.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -695,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document37]
 DocumentPath=Layout\FLEXI_HAL_Quark.pcbdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -712,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUBFUVRQ
 
-[Document40]
+[Document38]
 DocumentPath=Schematic\Stepper_Driver_Quark.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -729,7 +695,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HRIXGZAO
 
-[Document41]
+[Document39]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Miscellaneous Connectors\Miscellaneous Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -744,9 +710,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SVIRNWCG
 
-[Document42]
+[Document40]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Miscellaneous Connectors\Miscellaneous Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -763,7 +729,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXJXLEFO
 
-[Document43]
+[Document41]
 DocumentPath=Schematic\Stepper_driver_group.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -780,24 +746,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
-DocumentPath=Schematic\MCU_STM32G0_Extender.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document45]
+[Document42]
 DocumentPath=Schematic\12V_Power_Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -814,58 +763,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWNFDQUB
 
-[Document46]
-DocumentPath=Schematic\RP2040_Extender.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=44
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OMDUCNUI
-
-[Document47]
-DocumentPath=Schematic\RP2040_Extender.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document48]
-DocumentPath=Schematic\RP2040_MCU.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=45
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GXJKOQLP
-
-[Document49]
+[Document43]
 DocumentPath=FLEXI_HAL_Quark.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -882,7 +780,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document44]
 DocumentPath=Schematic\CANBUS_Pendant.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -899,7 +797,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DSZOCTAZ
 
-[Document51]
+[Document45]
 DocumentPath=Schematic\MCU_STM32H723ZGT6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -916,7 +814,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFXGARFB
 
-[Document52]
+[Document46]
 DocumentPath=Schematic\2CH_Digital_Isolator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -933,7 +831,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUDGIGVO
 
-[Document53]
+[Document47]
 DocumentPath=Schematic\Ethernet_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -950,7 +848,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPYUWYDS
 
-[Document54]
+[Document48]
 DocumentPath=Schematic\Encoder_Input.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -967,7 +865,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BREZAHGK
 
-[Document55]
+[Document49]
 DocumentPath=Schematic\Encoder_RJ45.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -984,7 +882,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PHZICSEA
 
-[Document56]
+[Document50]
 DocumentPath=Schematic\Aux_Inputs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1001,7 +899,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CVCEMJMB
 
-[Document57]
+[Document51]
 DocumentPath=Schematic\MCU_STM32H723ZGT6.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1018,7 +916,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document58]
+[Document52]
 DocumentPath=Schematic\USB_ULPI_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1035,7 +933,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SWJSVBWX
 
-[Document59]
+[Document53]
 DocumentPath=Schematic\Serial_Expansion.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1052,7 +950,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DDDDZATN
 
-[Document60]
+[Document54]
 DocumentPath=Schematic\2DIR_Digital_Isolator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1069,7 +967,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DNJANTJG
 
-[Document61]
+[Document55]
 DocumentPath=Schematic\Flexi_Quark_board.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1086,7 +984,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document56]
 DocumentPath=..\sienci-libraries\Sienci_Labs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1103,7 +1001,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document63]
+[Document57]
 DocumentPath=..\sienci-libraries\Sienci_Labs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2665,23 +2563,11 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Cap.SchLib
-ComponentDesignItemID0=1206 10uF (106) 10% 50V
-ComponentSymbolReference0=1206 10uF (106) 10% 50V
+ComponentLibraryIdentifier0=Universal_CNC_Breakout.SCHLIB
+ComponentDesignItemID0=Quark_2160
+ComponentSymbolReference0=Quark_2160
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Miscellaneous Connectors.IntLib
-ComponentDesignItemID1=Header 2X2H
-ComponentSymbolReference1=Header 2X2H
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=MOS.SchLib
-ComponentDesignItemID2=WSF50P10 P TO-252-2
-ComponentSymbolReference2=WSF50P10 P TO-252-2
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -2695,66 +2581,35 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Capacitance
+ParameterName0=Check_prices
 ParameterUpdate0=1
 ParameterName1=Comment
 ParameterUpdate1=1
 ParameterName2=Component Kind
 ParameterUpdate2=1
-ParameterName3=ComponentLink1Description
+ParameterName3=Description
 ParameterUpdate3=1
-ParameterName4=ComponentLink1URL
+ParameterName4=Digi-Key_Part_Number
 ParameterUpdate4=1
-ParameterName5=Description
+ParameterName5=Library Reference
 ParameterUpdate5=1
-ParameterName6=LatestRevisionDate
+ParameterName6=MF
 ParameterUpdate6=1
-ParameterName7=LatestRevisionNote
+ParameterName7=MP
 ParameterUpdate7=1
-ParameterName8=Library Reference
+ParameterName8=Package
 ParameterUpdate8=1
-ParameterName9=Manufacturer
+ParameterName9=Purchase-URL
 ParameterUpdate9=1
-ParameterName10=Manufacturer 1
+ParameterName10=SnapEDA_Link
 ParameterUpdate10=1
-ParameterName11=Manufacturer Part Number 1
+ParameterName11=Value
 ParameterUpdate11=1
-ParameterName12=Notepad
-ParameterUpdate12=1
-ParameterName13=Package
-ParameterUpdate13=1
-ParameterName14=PartNumber
-ParameterUpdate14=1
-ParameterName15=Publisher
-ParameterUpdate15=1
-ParameterName16=Supplier
-ParameterUpdate16=1
-ParameterName17=Supplier 1
-ParameterUpdate17=1
-ParameterName18=Supplier Part Number 1
-ParameterUpdate18=1
-ParameterName19=SuppliersPartNumber
-ParameterUpdate19=1
-ParameterName20=Tolerance
-ParameterUpdate20=1
-ParameterName21=Voltage
-ParameterUpdate21=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=1206_C
+ModelName0=QuarkStepperDriver
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=HDR2X2H
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=TO-252-2-180
-ModelUpdate2=1
-ModelTypeGroup1=SI
-ModelTypeUpdate1=1
-ModelType3=SI
-ModelName3=Connector
-ModelUpdate3=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
