@@ -404,7 +404,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NCQHDRRH
 
 [Document22]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Transistor_PNP.SchLib
@@ -968,7 +968,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BREZAHGK
 
 [Document55]
-DocumentPath=Schematic\Encoder_USBC.SchDoc
+DocumentPath=Schematic\Encoder_RJ45.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1086,6 +1086,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document62]
+DocumentPath=..\sienci-libraries\Sienci_Labs.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document63]
+DocumentPath=..\sienci-libraries\Sienci_Labs.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=2FD7A5CA-1890-45CB-96AB-94166B7423FD
 Description=SMT_ONLY
@@ -1171,7 +1205,7 @@ UniqueID=88C0E832-ADA3-44FB-9D87-64E364CEB3EA
 Description=FULL_PLACE
 AllowFabrication=0
 ParameterCount=0
-VariationCount=10
+VariationCount=11
 Variation1=Designator=U30|UniqueId=\WIRRTQQZ|Kind=1|AlternatePart= 
 Variation2=Designator=P8|UniqueId=\WPJDROXO\NGEYBBQW|Kind=1|AlternatePart= 
 Variation3=Designator=R?|UniqueId=\AFAOVGNO\ZYPAOYNB|Kind=1|AlternatePart= 
@@ -1182,6 +1216,7 @@ Variation7=Designator=P8|UniqueId=\CPSRESAS\WPJDROXO\NGEYBBQW|Kind=1|AlternatePa
 Variation8=Designator=R44|UniqueId=\CPSRESAS\CQTMQQVI|Kind=1|AlternatePart= 
 Variation9=Designator=P1|UniqueId=\CPSRESAS\PNHPFMIE|Kind=1|AlternatePart= 
 Variation10=Designator=P20|UniqueId=\CPSRESAS\QEAKSBUM|Kind=1|AlternatePart= 
+Variation11=Designator=R134|UniqueId=\WPJDROXO\RWMNDSJR|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [SearchPath1]
@@ -1197,20 +1232,20 @@ Path=..\libraries\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=VarRevNo
-Value=A1
-
-[Parameter2]
-Name=Title
+Name=PCBPARTNO
 Value=FlexiHAL-STP
 
-[Parameter3]
+[Parameter2]
 Name=PCBREVNO
 Value=A1
 
-[Parameter4]
-Name=PCBPARTNO
+[Parameter3]
+Name=Title
 Value=FlexiHAL-STP
+
+[Parameter4]
+Name=VarRevNo
+Value=A1
 
 [Configuration1]
 Name=Default Configuration
