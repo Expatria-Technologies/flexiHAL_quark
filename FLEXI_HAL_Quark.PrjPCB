@@ -118,23 +118,6 @@ GenerateClassCluster=0
 DocumentUniqueId=OHYSTRCH
 
 [Document5]
-DocumentPath=Schematic\Spindle_Control.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=19
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BBXQZZHW
-
-[Document6]
 DocumentPath=Schematic\I2C_Keypad.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWSWJIXT
 
-[Document7]
+[Document6]
 DocumentPath=Schematic\RS485.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHLBETMB
 
-[Document8]
+[Document7]
 DocumentPath=Schematic\Flexi_Quark_board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VNJFNLBI
 
-[Document9]
+[Document8]
 DocumentPath=Schematic\Stepper_driver_group.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOXDIMJD
 
-[Document10]
+[Document9]
 DocumentPath=STM32F446RE_CNC_BOARD.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=Schematic\5V_Power_Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,24 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WTACPPTS
 
-[Document12]
-DocumentPath=Schematic\Aux_Outputs.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=38
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YFSDBWIA
-
-[Document13]
+[Document11]
 DocumentPath=STM32F446RE_CNC_BOARD.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document12]
 DocumentPath=Uchoice.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document13]
 DocumentPath=Schematic\2xparallelswitch_HALT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNLWNZID
 
-[Document16]
+[Document14]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Zener.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FGGVQLSB
 
-[Document17]
+[Document15]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Universal_CNC_Breakout2.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VUFMGTSV
 
-[Document18]
+[Document16]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Universal_CNC_Breakout.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JPNFQUAG
 
-[Document19]
+[Document17]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Universal_breakout.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NCQHDRRH
 
-[Document20]
+[Document18]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Transistor_PNP.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WRTBQHMJ
 
-[Document21]
+[Document19]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Transistor_NPN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SNXALUAE
 
-[Document22]
+[Document20]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\RES.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HLBESONQ
 
-[Document23]
+[Document21]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\MOS.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RNJWUMFL
 
-[Document24]
+[Document22]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Miscellaneous Devices LC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XSJYQOIQ
 
-[Document25]
+[Document23]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\MCU.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JSSXFVPY
 
-[Document26]
+[Document24]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\LED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SQBERQTN
 
-[Document27]
+[Document25]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\LDO.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CCDDGAMC
 
-[Document28]
+[Document26]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\IUD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VMPXMJDM
 
-[Document29]
+[Document27]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\IC_temp.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GQNPVBEG
 
-[Document30]
+[Document28]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\IC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VITYGUXC
 
-[Document31]
+[Document29]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\FBEAD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GBUUCOMP
 
-[Document32]
+[Document30]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Diode.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JHFWXUNK
 
-[Document33]
+[Document31]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\CrystalOscillator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FITEGSRK
 
-[Document34]
+[Document32]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Cap.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTPOGMYO
 
-[Document35]
+[Document33]
 DocumentPath=FLEXI_HAL_Quark.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -644,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document34]
 DocumentPath=Layout\FLEXI_HAL_Quark.pcbdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -661,7 +627,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUBFUVRQ
 
-[Document37]
+[Document35]
 DocumentPath=Schematic\Stepper_Driver_Quark.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -678,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HRIXGZAO
 
-[Document38]
+[Document36]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Miscellaneous Connectors\Miscellaneous Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -695,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SVIRNWCG
 
-[Document39]
+[Document37]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Miscellaneous Connectors\Miscellaneous Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -712,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXJXLEFO
 
-[Document40]
+[Document38]
 DocumentPath=Schematic\Stepper_driver_group.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -729,7 +695,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document39]
 DocumentPath=Schematic\12V_Power_Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -746,7 +712,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWNFDQUB
 
-[Document42]
+[Document40]
 DocumentPath=FLEXI_HAL_Quark.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -763,7 +729,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document41]
 DocumentPath=Schematic\CANBUS_Pendant.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -780,7 +746,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DSZOCTAZ
 
-[Document44]
+[Document42]
 DocumentPath=Schematic\MCU_STM32H723ZGT6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -797,7 +763,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFXGARFB
 
-[Document45]
+[Document43]
 DocumentPath=Schematic\2CH_Digital_Isolator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -814,7 +780,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUDGIGVO
 
-[Document46]
+[Document44]
 DocumentPath=Schematic\Ethernet_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -831,7 +797,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPYUWYDS
 
-[Document47]
+[Document45]
 DocumentPath=Schematic\Encoder_Input.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -848,7 +814,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BREZAHGK
 
-[Document48]
+[Document46]
 DocumentPath=Schematic\Encoder_RJ45.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -865,7 +831,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PHZICSEA
 
-[Document49]
+[Document47]
 DocumentPath=Schematic\Aux_Inputs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -882,7 +848,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CVCEMJMB
 
-[Document50]
+[Document48]
 DocumentPath=Schematic\MCU_STM32H723ZGT6.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -899,7 +865,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document49]
 DocumentPath=Schematic\USB_ULPI_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -916,7 +882,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SWJSVBWX
 
-[Document52]
+[Document50]
 DocumentPath=Schematic\Serial_Expansion.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -933,7 +899,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DDDDZATN
 
-[Document53]
+[Document51]
 DocumentPath=Schematic\2DIR_Digital_Isolator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -950,7 +916,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DNJANTJG
 
-[Document54]
+[Document52]
 DocumentPath=Schematic\Flexi_Quark_board.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -967,7 +933,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document53]
 DocumentPath=..\sienci-libraries\Sienci_Labs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -984,7 +950,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document54]
 DocumentPath=..\sienci-libraries\Sienci_Labs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1001,8 +967,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
-DocumentPath=Schematic\Relay_Driver.SchDoc
+[Document55]
+DocumentPath=Schematic\Mezz_connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1016,24 +982,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XFZWKFDK
-
-[Document58]
-DocumentPath=Schematic\Chip_select_mux.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=57
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LQFHPQIV
+DocumentUniqueId=TUUYGEYM
 
 [ProjectVariant1]
 UniqueID=2FD7A5CA-1890-45CB-96AB-94166B7423FD
@@ -1447,7 +1396,7 @@ OutputDefault21=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=CTPrinter CT-428S
+TargetPrinter=NPI64BC3F
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -1736,7 +1685,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=CTPrinter CT-428S
+TargetPrinter=NPI64BC3F
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -2021,36 +1970,6 @@ OutputName12=Ansys EDB
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -2675,57 +2594,50 @@ Net5=NetName=+5V|NetColor=$00FF6EFF
 Net6=NetName=+5V_MCU|NetColor=$008D96A6
 Net7=NetName=AMP_VBAT|NetColor=clYellow
 Net8=NetName=CAM_VBAT|NetColor=$00816200
-Net9=NetName=DOOR|NetColor=$002E619F
-Net10=NetName=FLASH_VDD|NetColor=$0000BE00
-Net11=NetName=GND|NetColor=$00009CFF
-Net12=NetName=ISO_3.3V|NetColor=$00FFFF6E
-Net13=NetName=ISO_3.3V_LS_A|NetColor=$00FFFF6E
-Net14=NetName=ISO_3.3V_LS_B|NetColor=$00FFFF6E
-Net15=NetName=ISO_3.3V_LS_X|NetColor=$00FFFF6E
-Net16=NetName=ISO_3.3V_LS_Y|NetColor=$00FFFF6E
-Net17=NetName=ISO_3.3V_LS_Z|NetColor=$00FFFF6E
-Net18=NetName=ISO_3.3V_PH_CY|NetColor=$00FFFF6E
-Net19=NetName=ISO_3.3V_PH_DRG|NetColor=$00FFFF6E
-Net20=NetName=ISO_3.3V_PH_DRH|NetColor=$00FFFF6E
-Net21=NetName=ISO_3.3V_PH_DRI|NetColor=$00FFFF6E
-Net22=NetName=ISO_3.3V_PH_FD|NetColor=$00FFFF6E
-Net23=NetName=LED-|NetColor=$002E619F
-Net24=NetName=LED-_PH_DR|NetColor=$002E619F
-Net25=NetName=LED-_PH_TL|NetColor=$002E619F
-Net26=NetName=MCU_GND|NetColor=$0000BE00
-Net27=NetName=MOTOR_VCC_48V|NetColor=$005EEFFF
-Net28=NetName=NetC128_2|NetColor=$00FF6E6E
-Net29=NetName=NetD1_A|NetColor=$00FFFF6E
-Net30=NetName=NetD12_A|NetColor=$00FFFF6E
-Net31=NetName=NetD17_A|NetColor=$00FFFF6E
-Net32=NetName=NetD18_A|NetColor=$00FFFF6E
-Net33=NetName=NetD24_A|NetColor=$00FFFF6E
-Net34=NetName=NetD25_A|NetColor=$00FFFF6E
-Net35=NetName=NetD26_A|NetColor=$00FFFF6E
-Net36=NetName=NetD4_A|NetColor=$00FFFF6E
-Net37=NetName=NetD6_A|NetColor=$00FFFF6E
-Net38=NetName=NetD7_A|NetColor=$00FFFF6E
-Net39=NetName=NetR17_2|NetColor=$002E619F
-Net40=NetName=NetR74_2|NetColor=$002E619F
-Net41=NetName=POWER_OUT_5V|NetColor=$00FF6EFF
-Net42=NetName=RELAY_VCC|NetColor=$000083FD
-Net43=NetName=SENSOR_VDD|NetColor=$00B0B0B0
-Net44=NetName=SENSOR_VDD_FL|NetColor=$00B0B0B0
-Net45=NetName=SOLAR_OUT|NetColor=$00FF6E6E
-Net46=NetName=STEPPER_VCC|NetColor=$0000BE00
-Net47=NetName=SYS|NetColor=$00FFFF6E
-Net48=NetName=TOOL|NetColor=$002E619F
-Net49=NetName=USB_VBUS|NetColor=$00322760
-Net50=NetName=VBAT_ISP|NetColor=$004C9AF5
-Net51=NetName=VBAT_LOAD|NetColor=$00FF6E6E
-Net52=NetName=VBAT_SENSED|NetColor=$006EFF6E
-Net53=NetName=VBAT_SW|NetColor=$00FF6EFF
-Net54=NetName=VBAT1|NetColor=$00FF6EFF
-Net55=NetName=VCC_1V8|NetColor=$00FFFF6E
-Net56=NetName=VCC_1V8_IO|NetColor=$00164FDE
-Net57=NetName=VCC_1V8_SW|NetColor=$006E6EFF
-Net58=NetName=VCC_MCU_3V3|NetColor=$00FFFF6E
-Net59=NetName=VSYS_3V5V|NetColor=$00FF6E6E
+Net9=NetName=FLASH_VDD|NetColor=$0000BE00
+Net10=NetName=GND|NetColor=$00009CFF
+Net11=NetName=ISO_3.3V|NetColor=$00FFFF6E
+Net12=NetName=ISO_3.3V_LS_A|NetColor=$00FFFF6E
+Net13=NetName=ISO_3.3V_LS_B|NetColor=$00FFFF6E
+Net14=NetName=ISO_3.3V_LS_X|NetColor=$00FFFF6E
+Net15=NetName=ISO_3.3V_LS_Y|NetColor=$00FFFF6E
+Net16=NetName=ISO_3.3V_LS_Z|NetColor=$00FFFF6E
+Net17=NetName=ISO_3.3V_PH_CY|NetColor=$00FFFF6E
+Net18=NetName=ISO_3.3V_PH_DRG|NetColor=$00FFFF6E
+Net19=NetName=ISO_3.3V_PH_DRH|NetColor=$00FFFF6E
+Net20=NetName=ISO_3.3V_PH_DRI|NetColor=$00FFFF6E
+Net21=NetName=ISO_3.3V_PH_FD|NetColor=$00FFFF6E
+Net22=NetName=MCU_GND|NetColor=$0000BE00
+Net23=NetName=MOTOR_VCC_48V|NetColor=$005EEFFF
+Net24=NetName=NetC128_2|NetColor=$00FF6E6E
+Net25=NetName=NetD1_A|NetColor=$00FFFF6E
+Net26=NetName=NetD12_A|NetColor=$00FFFF6E
+Net27=NetName=NetD17_A|NetColor=$00FFFF6E
+Net28=NetName=NetD18_A|NetColor=$00FFFF6E
+Net29=NetName=NetD24_A|NetColor=$00FFFF6E
+Net30=NetName=NetD25_A|NetColor=$00FFFF6E
+Net31=NetName=NetD26_A|NetColor=$00FFFF6E
+Net32=NetName=NetD4_A|NetColor=$00FFFF6E
+Net33=NetName=NetD6_A|NetColor=$00FFFF6E
+Net34=NetName=NetD7_A|NetColor=$00FFFF6E
+Net35=NetName=POWER_OUT_5V|NetColor=$00FF6EFF
+Net36=NetName=RELAY_VCC|NetColor=$000083FD
+Net37=NetName=SENSOR_VDD|NetColor=$00B0B0B0
+Net38=NetName=SENSOR_VDD_FL|NetColor=$00B0B0B0
+Net39=NetName=SOLAR_OUT|NetColor=$00FF6E6E
+Net40=NetName=STEPPER_VCC|NetColor=$0000BE00
+Net41=NetName=SYS|NetColor=$00FFFF6E
+Net42=NetName=USB_VBUS|NetColor=$00322760
+Net43=NetName=VBAT_ISP|NetColor=$004C9AF5
+Net44=NetName=VBAT_LOAD|NetColor=$00FF6E6E
+Net45=NetName=VBAT_SENSED|NetColor=$006EFF6E
+Net46=NetName=VBAT_SW|NetColor=$00FF6EFF
+Net47=NetName=VBAT1|NetColor=$00FF6EFF
+Net48=NetName=VCC_1V8|NetColor=$00FFFF6E
+Net49=NetName=VCC_1V8_IO|NetColor=$00164FDE
+Net50=NetName=VCC_1V8_SW|NetColor=$006E6EFF
+Net51=NetName=VCC_MCU_3V3|NetColor=$00FFFF6E
+Net52=NetName=VSYS_3V5V|NetColor=$00FF6E6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
